@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    border:dashed black 3px;
+
+}
